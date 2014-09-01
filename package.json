@@ -1,0 +1,30 @@
+{
+  "name": "gulp-module-jscpd",
+  "version": "0.0.1",
+  "description": "JSCPD gulp integration",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prowl/gulp-module-jscpd.git"
+  },
+  "keywords": [
+    "JSCPD",
+    "Prowl",
+    "gulp"
+  ],
+  "author": "Joshwa Fugett <jfugett27@gmail.com> (http://thotjs.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prowl/gulp-module-jscpd/issues"
+  },
+  "homepage": "https://github.com/prowl/gulp-module-jscpd",
+  "devDependencies": {
+    "gulp-module": "https://npm.fury.io/GTpAPYjxGn3jnpGRdN3L/thotjs/gulp-module/-/latest.tgz"
+  },
+  "dependencies": {
+    "gulp-jscpd": "0.0.3"
+  }
+}

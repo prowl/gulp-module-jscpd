@@ -1,6 +1,6 @@
 {
   "name": "gulp-module-jscpd",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "JSCPD gulp integration",
   "main": "lib/index.js",
   "scripts": {
